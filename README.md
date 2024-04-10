@@ -1,4 +1,4 @@
-### 👋 Hello there! I'm [Paul Raj](https://github.com/pravinraj1), an Engineer and App Developer passionate about Artificial Intelligence (AI) and Machine Learning (ML).
+### 👋 Hello there! I'm [Pravinraj](https://github.com/pravinraj1), an Engineer and App Developer passionate about Artificial Intelligence (AI) and Machine Learning (ML).
 
 - 🔭 I’m currently working on [ROS](https://github.com/pravinraj1/TNSDC_2024) and AV
 - 🌱 I’m currently learning AI and ML
