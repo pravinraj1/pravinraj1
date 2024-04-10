@@ -8,3 +8,4 @@
 - 📫 How to reach me: pravinrajmp@gmail.com , pravinrajmp@outlook.com , [Linkedin](https://www.linkedin.com/in/pravinraj1/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 🌌 Imaginative daydreamer & 🦉 devoted night owl
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryacreatx&show_icons=true&locale=en&layout=compact" alt="suryacreatx" /></p>
